@@ -18,7 +18,7 @@
 
 ### About Me
 
-- 🔭 Currently building **backend systems** at Turuntai
+- 🔭 Currently building **backend systems** at MLExperts.ai
 - 🛠️ Specialized in **REST APIs**, **microservices**, and **database design**
 - 🌱 Deepening expertise in **FastAPI**, **system design**, and **DevOps**
 - 💼 Open to backend / full-stack opportunities
