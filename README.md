@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Suraj Sharma 👋</h1>
 
 <p align="center">
-  <b>Backend Developer from Nepal 🇳🇵</b><br/>
-  Building robust APIs and backend systems with Python
+  <b>Python Backend & AI Engineer | Django, FastAPI, LLM/RAG</b><br/>
 </p>
 
 <p align="center">
@@ -18,38 +17,26 @@
 
 ### About Me
 
-- 🔭 Currently building **backend systems** at MLExperts.ai
+- 🔭 Currently building **backend systems** voluntarily for FMCG distribution platform
 - 🛠️ Specialized in **REST APIs**, **microservices**, and **database design**
 - 🌱 Deepening expertise in **FastAPI**, **system design**, and **DevOps**
 - 💼 Open to backend / full-stack opportunities
 - 📍 Based in Nepal, available for remote work
 
 ---
-
 ### Tech Stack
 
-**Languages**
+| Area | Technologies |
+|---|---|
+| **Backend** | Python, Django / Django REST Framework, FastAPI, REST APIs, gRPC, WebSockets, Celery |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis · SQLAlchemy (async), Alembic, Django ORM |
+| **AI & LLM** | LangChain, LangGraph, RAG pipelines, multi-agent systems, vector databases & embeddings, prompt engineering |
+| **Security** | OAuth 2.0, JWT, RBAC, encrypted credential storage |
+| **DevOps & Testing** | Docker, GitHub Actions CI/CD, Linux, Nginx, VPS deployment, pytest, AWS (S3), Git |
+| **Also used** | JavaScript, TypeScript, React (admin dashboards) |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frameworks & Libraries**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
+---
+### Certification: [AWS Certified AI Practitioner](https://www.credly.com/badges/fdf786db-3028-4395-ab21-3aa3cd992ef0/linked_in_profile) (2026)
 ---
 
 ### Featured Projects
