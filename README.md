@@ -20,7 +20,7 @@
 - 🔭 Currently building **backend systems** for FMCG distribution platform
 - 🛠️ Specialized in **REST APIs**, **microservices**, and **database design**
 - 🌱 Deepening expertise in **FastAPI**, **system design**, and **DevOps**
-- 💼 Open to backend / full-stack opportunities
+- 💼 Open to AI and backend engineering roles.
 - 📍 Based in Nepal, available for remote work
 
 ---
