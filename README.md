@@ -17,7 +17,7 @@
 
 ### About Me
 
-- 🔭 Currently building **backend systems** voluntarily for FMCG distribution platform
+- 🔭 Currently building **backend systems** for FMCG distribution platform
 - 🛠️ Specialized in **REST APIs**, **microservices**, and **database design**
 - 🌱 Deepening expertise in **FastAPI**, **system design**, and **DevOps**
 - 💼 Open to backend / full-stack opportunities
