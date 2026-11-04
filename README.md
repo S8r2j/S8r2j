@@ -47,7 +47,6 @@
 | [whatsapp-order-dashboard](https://github.com/S8r2j/whatsapp-order-dashboard) | Dashboard for WhatsApp Order Management — Vite, Tailwind CSS, TanStack Query, Zustand | React · TypeScript |
 | [url-shortner-be](https://github.com/S8r2j/url-shortner-be) | URL shortener REST API | Python |
 | [shiv_trading_flask](https://github.com/S8r2j/shiv_trading_flask) | Trading management system | Flask |
-| [LibraryManagementSystem](https://github.com/S8r2j/LibraryManagementSystem) | Library management system with CRUD operations | Python |
 
 ---
 
