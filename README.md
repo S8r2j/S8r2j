@@ -46,7 +46,7 @@
 | [whatsapp-order-api](https://github.com/S8r2j/whatsapp-order-api) | Multi-tenant WhatsApp Order Management backend — PostgreSQL, Redis, Celery, Meta OAuth 2.0 | FastAPI · Python |
 | [whatsapp-order-dashboard](https://github.com/S8r2j/whatsapp-order-dashboard) | Dashboard for WhatsApp Order Management — Vite, Tailwind CSS, TanStack Query, Zustand | React · TypeScript |
 | [url-shortner-be](https://github.com/S8r2j/url-shortner-be) | URL shortener REST API | Python |
-| [shiv_trading_flask](https://github.com/S8r2j/shiv_trading_flask) | Trading management system | Flask |
+| [routing-api](https://github.com/S8r2j/routing-api) | Async Django REST API that plans the cheapest fuel stops along a US route — spatial index, caching, rate limiting, 2,000-line test suite | Django · Python |
 
 ---
 
